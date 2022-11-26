@@ -1,1 +1,8 @@
-# Depression-Detection-System-Using-Machine-Learning![screenshot-colab research google com-2022 11 26-19_09_47](https://user-images.githubusercontent.com/78700974/204091846-f890afbc-9000-4f88-affc-b63697926d6f.png)
+# Depression-Detection-System-Using-Machine-Learning!
+
+
+
+
+
+https://user-images.githubusercontent.com/78700974/204092455-e67bc3d9-113d-4c89-ac80-a3b9f8d27580.mp4
+
