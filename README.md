@@ -1,3 +1,34 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
 # Depression-Detection-System-Using-Machine-Learning
 
 
@@ -23,4 +54,22 @@ SYSTEM REQUIREMENT
 DOWNLOAD THE PROJECT REPORT ➡️
 
 
+<button onclick="myFunction()">Toggle dark mode</button>
+
+
+
 📁 [Depression Detection System Using Machine Learning Report SM G1.pdf](https://github.com/SUBHADIPMAITI-DEV/Depression-Detection-System-Using-Machine-Learning/files/10097750/Depression.Detection.System.Using.Machine.Learning.Report.SM.G1.pdf)
+
+
+
+<button onclick="myFunction()">Toggle dark mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+</body>
+</html>
