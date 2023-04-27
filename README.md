@@ -22,7 +22,7 @@ SYSTEM REQUIREMENT
  RESULT ANALYSIS 
 ![image](https://user-images.githubusercontent.com/78700974/204124779-9d353689-2adb-499d-97e3-171c69f4ee8f.png)
 
-Project Link ➡️ https://colab.research.google.com/drive/1YNyzk4WtfaDW5673s5LFI0dpK9tTl5wo?usp=sharing
+Project Link ➡️ [https://colab.research.google.com/drive/1YNyzk4WtfaDW5673s5LFI0dpK9tTl5wo?usp=sharing]
 
 
 DOWNLOAD THE PROJECT REPORT ➡️
