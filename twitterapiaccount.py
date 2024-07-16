@@ -293,10 +293,11 @@ import joblib
 
 def download_user_tweets():
     # set twitter credentials   
-    api_key = '850YrbsNWucByH06cbS6Ao6xy'
-    api_key_secret = 'lYmg13QM5MzjaN0xs0IxR12B1FvLDCLc2rnQ2cXfgScETEWWp5'
-    access_token = '1580202146255220736-Nca2hdTr9quLSwjh3QIOZSEjyQ8p9a'
-    access_token_secret = 'ivF4kpe9VZSy1Os68iF3mJm3TvXjHpHB2o8dYcIc1MTM9'
+    #insert your API key details
+    api_key = 'api----key----here'
+    api_key_secret = 'api------key-------secret--here'
+    access_token = 'access----token-------here'
+    access_token_secret = 'access----------token-----secret----here'
     
     # Access Twitter Data (login to twitter via api) 
     auth = tweepy.OAuthHandler(api_key, api_key_secret)
