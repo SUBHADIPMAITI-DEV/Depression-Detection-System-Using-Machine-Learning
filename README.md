@@ -29,8 +29,6 @@ RESULT VIDEO
 https://github.com/SUBHADIPMAITI-DEV/Depression-Detection-System-Using-Machine-Learning/assets/78700974/f70aed97-32f2-4086-a80c-51770771f1c4
 
 
-
- Project Link ➡️ [🔗](https://colab.research.google.com/drive/1YNyzk4WtfaDW5673s5LFI0dpK9tTl5wo?usp=sharing) 
  
 
 
@@ -40,6 +38,4 @@ DOWNLOAD THE PROJECT REPORT ➡️
 
 
 
-📁 [Depression Detection System Using Machine Learning Report SM G1.pdf](https://github.com/SUBHADIPMAITI-DEV/Depression-Detection-System-Using-Machine-Learning/files/10097750/Depression.Detection.System.Using.Machine.Learning.Report.SM.G1.pdf)
-
-
+📁 [Depression.Detection.System.Using.Machine.Learning.Report.SM.G1_removed.pdf](https://github.com/user-attachments/files/16268089/Depression.Detection.System.Using.Machine.Learning.Report.SM.G1_removed.pdf)
